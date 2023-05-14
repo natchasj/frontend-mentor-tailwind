@@ -12,6 +12,7 @@
     "@nuxt/devtools": "^0.4.6",
     "@nuxtjs/tailwindcss": "^6.6.8",
     "@types/node": "^18",
+    "flowbite": "^1.6.5",
     "nuxt": "^3.4.3"
   }
 }
